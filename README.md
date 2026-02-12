@@ -1,11 +1,18 @@
 ## 👋 Hey, I'm Marvy Codes 👋
-
-### I'm a Smart Contract Auditor 
-### solidity and Move
+### I'm a Smart Contract Auditor | solidity and Move
 
 
-🤝 Let’s Connect
+###  Education
+Bachelor in Software Engineering @ Federal University of Technology 
+Activities: Table Tennis Team
 
+## 🎯 Long-Term Vision
+Build a world-class audit portfolio
+Reach consistent High/Critical findings
+Earn $1M through elite security research
+Become known for deep architectural exploit analysis
+
+## 🤝 Let’s Connect
 If you're building:
 - DeFi infrastructure
 - Vault systems
@@ -14,10 +21,8 @@ If you're building:
 Anything involving complex value accounting
 
 I’m interested.
-
 🐦 Twitter: https://x.com/_marvyCodes
- [![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
- Telegram
+💬 Telegram: https://t.me/marvycodes
 💼 LinkedIn: https://www.linkedin.com/in/olowookere-marvellous/
 
 📩 DM open for audits & collaborations
