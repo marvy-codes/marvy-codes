@@ -3,7 +3,7 @@
 
 
 ###  Education
-Bachelor in Software Engineering @ Federal University of Technology 
+Bachelor in Software Engineering @ Federal University of Technology.
 Activities: Table Tennis Team
 
 ## 🎯 Long-Term Vision
