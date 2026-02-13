@@ -3,16 +3,16 @@
 
 
 ###  Education
-Bachelor in Software Engineering @ Federal University of Technology.
-Activities: Table Tennis Team
+- Bachelor in Software Engineering @ Federal University of Technology.
+- Activities: Table Tennis Team.
 
-## 🎯 Long-Term Vision
+### 🎯 Long-Term Vision
 Build a world-class audit portfolio
 Reach consistent High/Critical findings
 Earn $1M through elite security research
 Become known for deep architectural exploit analysis
 
-## 🤝 Let’s Connect
+### 🤝 Let’s Connect
 If you're building:
 - DeFi infrastructure
 - Vault systems
