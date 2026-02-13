@@ -1,9 +1,7 @@
 ## 👋 Hey, I'm Marvellous 
 ### 🧠 I'm a Smart Contract Auditor | solidity and Move
 Staring at smart contracts until one of us breaks.
-
 Smart contract auditor focused on DeFi architecture, invariant violations, vault accounting, and value-flow bugs.
-
 Currently deep-diving complex systems across Sherlock, competitive audits, and independent research in major DEFI and Security areas aiming for top-tier audit performance.
 
 ### 📊 Audit Journey
