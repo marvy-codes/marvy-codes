@@ -7,7 +7,7 @@ Currently deep-diving complex systems across Sherlock, competitive audits, and i
 ### 📊 Audit Journey
 35+ competitive audit contests participation and 8+ Medium and High findings across protocols also Multiple High-severity logic issues identified. Deep architectural reviews of 7k+ nSloc systems and 3 Move private audit engagements
 
-### Public Findings
+### 🪨 Public Findings
 | # | Date | Provider | Project | Category | Findings |
 |---|------|----------|---------|----------|----------|
 | 1 | 11.2025 | [Sherlock](https://audits.sherlock.xyz/contests/1203) | Insurance | [1H](https://audits.sherlock.xyz/contests/1203/voting/867) [1M](https://audits.sherlock.xyz/contests/1203/voting/832) | Solidity |
@@ -16,7 +16,7 @@ Currently deep-diving complex systems across Sherlock, competitive audits, and i
 | 4 | 09.2025 | Sherlock | AMM | [1M](https://audits.sherlock.xyz/contests/1054/voting/568) [1M](https://audits.sherlock.xyz/contests/1054/voting/572) | Solidity |
 | 5 | 08.2024 | Sherlock | Collateralized Debt Position | [1M ](https://audits.sherlock.xyz/contests/1073/voting/988)| Solidity |
 <!-- | 6 | 02.2024 | Sherlock | Lending | 1H | Solidity | -->
-### Move Shadow Audit
+### 💧 Move Shadow Audit
 | # | Date | Provider | Project | Category | Findings |
 |---|------|----------|---------|----------|----------|
 | 1 | 12.2025 | code4arena | Interoperability | [1H](https://code4rena.com/audits/2025-01-initia-move/submissions/F-1) [1H](https://code4rena.com/audits/2025-01-initia-move/submissions/F-5) [1M](https://code4rena.com/audits/2025-01-initia-move/submissions/F-11) | Move |
@@ -55,7 +55,7 @@ I approach audits by:
 - [My take on AI in Security Research](https://x.com/_marvyCodes/status/2012009670509248633?s=20)
 - [CallData Rabbit Hole and what I discovered](https://x.com/_marvyCodes/status/2008061393044685173?s=20)
 
-###  Education
+### 🎓 Education
 - Bachelor in Software Engineering @ Federal University of Technology.
 - sport: Table Tennis.
 - Multiple Updraft courses completed
