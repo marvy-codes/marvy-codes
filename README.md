@@ -5,11 +5,7 @@ Smart contract auditor focused on DeFi architecture, invariant violations, vault
 Currently deep-diving complex systems across Sherlock, competitive audits, and independent research in major DEFI and Security areas aiming for top-tier audit performance.
 
 ### 📊 Audit Journey
-35+ competitive audit contests participated
-8+ Medium and High findings across protocols
-Multiple High-severity logic issues identified
-Deep architectural reviews of 7k+ nSloc systems
-3 Move private audit engagements
+35+ competitive audit contests participation and 8+ Medium and High findings across protocols also Multiple High-severity logic issues identified. Deep architectural reviews of 7k+ nSloc systems and 3 Move private audit engagements
 
 ### Public Findings
 | # | Date | Provider | Project | Category | Findings |
@@ -23,7 +19,7 @@ Deep architectural reviews of 7k+ nSloc systems
 
 
 
-### 🛡️ Security Work in Contests
+<!-- ### 🛡️ Security Work in Contests
 Recent protocol reviews include:
 - Burve Protocol (multi-token closure & value engine)
 - Plaza Finance (programmable derivatives)
@@ -38,7 +34,7 @@ I approach audits by:
 - Testing invariant break scenarios
 - Simulating malicious state reachability
 - Writing PoC when impact is non-trivial
-
+-->
 ### 🧪 Tools & Stack
 - Move
 - Solidity
