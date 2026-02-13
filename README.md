@@ -19,7 +19,7 @@ Currently deep-diving complex systems across Sherlock, competitive audits, and i
 ### 💧 Move Shadow Audit
 | # | Date | Provider | Project | Category | Findings |
 |---|------|----------|---------|----------|----------|
-| 1 | 12.2025 | code4arena | Interoperability | [1H](https://code4rena.com/audits/2025-01-initia-move/submissions/F-1) [1H](https://code4rena.com/audits/2025-01-initia-move/submissions/F-5) [1M](https://code4rena.com/audits/2025-01-initia-move/submissions/F-11) | Move |
+| 1 | 12.2025 | [code4arena](https://code4rena.com/) | Interoperability | [1H](https://code4rena.com/audits/2025-01-initia-move/submissions/F-1) [1H](https://code4rena.com/audits/2025-01-initia-move/submissions/F-5) [1M](https://code4rena.com/audits/2025-01-initia-move/submissions/F-11) | Move |
 | 2 | 01.2026 | code4arena | Liquid Staking | [1H](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token/submissions/F-156) [1M](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token/submissions/F-27) [1M](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token/submissions/F-83)| Move |
 
 <!-- ### 🛡️ Security Work in Contests
