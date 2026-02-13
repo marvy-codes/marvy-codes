@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Marvy Codes 👋
+## 👋 Hey, I'm Marvellous 👋
 ### I'm a Smart Contract Auditor | solidity and Move
 
 
@@ -21,9 +21,9 @@ If you're building:
 Anything involving complex value accounting
 
 I’m interested.
-🐦 Twitter: https://x.com/_marvyCodes
-💬 Telegram: https://t.me/marvycodes
-💼 LinkedIn: https://www.linkedin.com/in/olowookere-marvellous/
+- 🐦 Twitter: https://x.com/_marvyCodes
+- 💬 Telegram: https://t.me/marvycodes
+- 💼 LinkedIn: https://www.linkedin.com/in/olowookere-marvellous/
 
 📩 DM open for audits & collaborations
 <!--
