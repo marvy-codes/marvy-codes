@@ -71,6 +71,7 @@ I’m interested...
 - 🐦 Twitter: https://x.com/_marvyCodes
 - 💬 Telegram: https://t.me/marvycodes
 - 💼 LinkedIn: https://www.linkedin.com/in/olowookere-marvellous/
+- 📫 Discord: https://discordapp.com/users/826549073217585162
 
 📩 DM open for audits & collaborations
 <!--
