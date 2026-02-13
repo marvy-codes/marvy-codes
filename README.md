@@ -16,21 +16,16 @@ Deep architectural reviews of 7k+ nSloc systems
 ### Public Findings
 | # | Date | Provider | Project | Category | Findings |
 |---|------|----------|---------|----------|----------|
-| 1 | 02.2024 | Guardian | Lending | 1H | Solidity |
+| 1 | 11.2025 | [Sherlock](https://audits.sherlock.xyz/contests/1203) | Insurance | [1H](https://audits.sherlock.xyz/contests/1203/voting/867) [1M](https://audits.sherlock.xyz/contests/1203/voting/832) | Solidity |
+| 2 | 10.2025 | Sherlock | Derivatives | [1M](https://audits.sherlock.xyz/contests/1197/voting/274) | Solidity |
+| 3 | 09.2025 | Sherlock | Liquidity | [1H](https://audits.sherlock.xyz/contests/1171/voting/710) | Solidity |
+| 4 | 09.2025 | Sherlock | AMM | [1M](https://audits.sherlock.xyz/contests/1054/voting/568) [1M](https://audits.sherlock.xyz/contests/1054/voting/572) | Solidity |
+| 5 | 08.2024 | Sherlock | Collateralized Debt Position | [1M ](https://audits.sherlock.xyz/contests/1073/voting/988)| Solidity |
+<!-- | 6 | 02.2024 | Sherlock | Lending | 1H | Solidity | -->
 
 
 
-### 🧱 Protocol Types I Enjoy Auditing
-- Lending / Borrowing markets
-- Vault systems & share accounting
-- AMMs (constant product + custom curves)
-- Staking & reward distribution
-- Leveraged LP architectures and systems
-- Synthetic stablecoin systems
-- Multi-pool value routing designs
-- Staking & restaking protocols
-
-### 🛡️ Security Work
+### 🛡️ Security Work in Contests
 Recent protocol reviews include:
 - Burve Protocol (multi-token closure & value engine)
 - Plaza Finance (programmable derivatives)
@@ -47,7 +42,9 @@ I approach audits by:
 - Writing PoC when impact is non-trivial
 
 ### 🧪 Tools & Stack
+- Move
 - Solidity
+- Fuzzing
 - Foundry (advanced testing + fuzzing)
 - EVM bytecode analysis
 - Gas optimization review
@@ -63,23 +60,16 @@ I approach audits by:
 
 ###  Education
 - Bachelor in Software Engineering @ Federal University of Technology.
-- Activities: Table Tennis Team.
+- sport: Table Tennis.
 
 ### 🎯 Long-Term Vision
-- Build a world-class audit portfolio
-- Reach consistent High/Critical findings
-- Earn $1M through elite security research
 - Become known for deep architectural exploit analysis
 
 ### 🤝 Let’s Connect
-If you're building:
-- DeFi infrastructure
-- Vault systems
-- Derivatives
-- Custom AMM curves
+If you're building DeFi infrastructures 
 Anything involving complex value accounting
 
-I’m interested.
+I’m interested...
 - 🐦 Twitter: https://x.com/_marvyCodes
 - 💬 Telegram: https://t.me/marvycodes
 - 💼 LinkedIn: https://www.linkedin.com/in/olowookere-marvellous/
