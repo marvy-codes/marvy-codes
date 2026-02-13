@@ -17,6 +17,8 @@ Currently deep-diving complex systems across Sherlock, competitive audits, and i
 | 5 | 08.2024 | Sherlock | Collateralized Debt Position | [1M ](https://audits.sherlock.xyz/contests/1073/voting/988)| Solidity |
 <!-- | 6 | 02.2024 | Sherlock | Lending | 1H | Solidity | -->
 ### Move Shadow Audit
+| # | Date | Provider | Project | Category | Findings |
+|---|------|----------|---------|----------|----------|
 | 1 | 02.2024 | code4arena | Interoperability | [1H](https://code4rena.com/audits/2025-01-initia-move/submissions/F-1) [1H](https://code4rena.com/audits/2025-01-initia-move/submissions/F-5) [1M](https://code4rena.com/audits/2025-01-initia-move/submissions/F-11) | Move |
 | 2 | 02.2024 | code4arena | Liquid Staking | [1H](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token/submissions/F-156) [1M](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token/submissions/F-27) [1M](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token/submissions/F-83)| Move |
 
