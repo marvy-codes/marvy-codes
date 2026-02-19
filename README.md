@@ -49,6 +49,7 @@ I approach audits by:
 - Manual exploit simulation
 
 ### 📚 Writing & Research
+- [𝗥𝗘𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 𝗨𝗡𝗜𝗦𝗪𝗔𝗣 𝗩3 𝗙𝗥𝗢𝗠 𝗦𝗖𝗥𝗔𝗧𝗖𝗛](https://www.linkedin.com/posts/olowookere-marvellous_github-marvy-codes1uniswapv3clone-ground-up-share-7430102607794311168-OYGm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7B9CcBnJYxx8OmFgfeKjKjcCZmVYqOVJg)
 - [Move Security Thread](https://x.com/_marvyCodes/status/1989475215315759345?s=20)
 - [Options trading breakdown](https://x.com/_marvyCodes/status/1959167183566578134?s=20)
 - [Damn Vulnerable Defi Free raider challenge](https://x.com/_marvyCodes/status/2019253374085173567?s=20)
