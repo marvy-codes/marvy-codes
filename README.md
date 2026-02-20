@@ -1,11 +1,27 @@
 ## 👋 Hey, I'm Marvellous 
-### 🧠 I'm a Smart Contract Auditor | solidity and Move
-A software engineer with 5+ years in the technology space, Currently staring at smart contracts until one of us breaks.
-Smart contract auditor focused on DeFi architecture, invariant violations, vault accounting, and value-flow bugs.
-Currently deep-diving complex systems across Sherlock, competitive audits, and independent research in major DEFI and Security areas aiming for top-tier audit performance.
+### 🧠 I'm a Full-Stack & Blockchain Engineer with Deep Smart Contract Security Expertise
+### 🚀 About
+I’m a Full-Stack, Blockchain Engineer and Security Researcher with over 5 years of experience building and securing production systems across Web2 and Web3 environments.
+My background spans frontend engineering (React, Next.js, TypeScript), backend systems (Node.js, Express, APIs, MongoDB), and blockchain development (Solidity, EVM architecture, Move). I’ve built user-facing applications, backend services, and smart contract systems that bridge on-chain logic with real-world platforms.
+In recent years, I’ve specialized in smart contract security and DeFi protocol architecture. I actively audit complex systems, analyze value-flow invariants, vault accounting mechanisms, and protocol-level risk across competitive audit platforms and independent research.
+
+What differentiates me is dual perspective:
+- I understand how systems are built.
+- I understand how they break.
+
+This allows me to design more secure contracts, more reliable backend systems, and more resilient full-stack applications.
+
+I’m open to roles in:
+• Blockchain Development
+• Smart Contract Engineering
+• Backend Engineering
+• Frontend/Web3 Engineering
+• Security Engineering
+
+Let’s build secure systems.
 
 ### 📊 Audit Journey
-35+ competitive audit contests participation and 8+ Medium and High findings across protocols also Multiple High-severity logic issues identified. Deep architectural reviews of 7k+ nSloc systems and 3 Move private audit engagements
+25+ competitive audit contests participation and over 10+ Medium and High public findings across protocols also Multiple High-severity logic issues identified. Deep architectural reviews of 7k+ nSloc systems and 2 Move private audit engagements
 
 ### 🪨 Public Findings
 | # | Date | Provider | Project | Category | Findings |
@@ -38,6 +54,8 @@ I approach audits by:
 - Simulating malicious state reachability
 - Writing PoC when impact is non-trivial
 -->
+### 
+
 ### 🧪 Tools & Stack
 - Move
 - Solidity
@@ -60,9 +78,6 @@ I approach audits by:
 - Bachelor in Software Engineering @ Federal University of Technology.
 - sport: Table Tennis.
 - Multiple Updraft courses completed
-
-### 🎯 Long-Term Vision
-- Become known for deep architectural exploit analysis
 
 ### 🤝 Let’s Connect
 If you're building DeFi infrastructures 
