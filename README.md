@@ -82,7 +82,6 @@ I’m interested...
 - 📫 Discord: https://discordapp.com/users/826549073217585162
 
 📩 DM open for audits & collaborations
-📄 **Resume:** [View My Resume](./professional-resume.pdf)
 <!--
 **marvy-codes/marvy-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
