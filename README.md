@@ -1,24 +1,21 @@
 ## 👋 Hey, I'm Marvellous 
 ### 🧠 I'm a Full-Stack & Blockchain Engineer with Deep Smart Contract Security Expertise
 ### 🚀 About
-I’m a Full-Stack, Blockchain Engineer and Security Researcher with over 5 years of experience building and securing production systems across Web2 and Web3 environments.
-My background spans frontend engineering (React, TailwindCss, Next.js, TypeScript), backend systems (Node.js, Express.js, APIs, MongoDB), and blockchain development (Solidity, web3.js, Ethers.js EVM architecture, Move). I’ve built user-facing applications, backend services, and smart contract systems that bridge on-chain logic with real-world platforms.
-In recent years, I’ve specialized in smart contract security and DeFi protocol architecture. I actively audit complex systems, analyze value-flow invariants, vault accounting mechanisms, and protocol-level risk across competitive audit platforms and independent research.
+I help teams build secure, scalable blockchain and backend systems that don’t break in production.
+From writing and securing Solidity smart contracts to designing APIs and full-stack applications, I ship systems that are both functional and attack-resistant.
+I’m a Full-Stack, Blockchain Engineer and Security Researcher with 5+ years of experience building production grade software across Web2 and Web3. I work across:
 
-What differentiates me is dual perspective:
-- I understand how systems are built.
-- I understand how they break.
+- Smart contract development (Solidity, EVM, Move)
+- Backend systems (Node.js, Express, APIs, MongoDB)
+- Frontend applications (React, Tailwind.cssNext.js, TypeScript)
 
-This allows me to design more secure contracts, more reliable backend systems, and more resilient full-stack applications.
+Over the past few years, I’ve specialized in DeFi architecture and smart contract security  analysing invariant violations, vault accounting models, and protocol-level risks across competitive audits and independent research.
 
-I’m open to roles in:
-- Blockchain Development
-- Smart Contract Engineering
-- Backend Engineering
-- Frontend/Web3 Engineering
-- Security Engineering
+I bring both:
+- A builder’s mindset — shipping reliable systems
+- An attacker’s mindset — stress-testing assumptions
 
-Let’s build secure systems.
+If you’re building blockchain products, DeFi infrastructure, or Web3 applications and need engineering depth with security awareness, let’s connect.
 
 ### 📊 Audit Journey
 25+ competitive audit contests participation and over 10+ Medium and High public findings across protocols also Multiple High-severity logic issues identified. Deep architectural reviews of 7k+ nSloc systems and 2 Move private audit engagements
