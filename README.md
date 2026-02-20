@@ -2,7 +2,7 @@
 ### 🧠 I'm a Full-Stack & Blockchain Engineer with Deep Smart Contract Security Expertise
 ### 🚀 About
 I’m a Full-Stack, Blockchain Engineer and Security Researcher with over 5 years of experience building and securing production systems across Web2 and Web3 environments.
-My background spans frontend engineering (React, Next.js, TypeScript), backend systems (Node.js, Express, APIs, MongoDB), and blockchain development (Solidity, EVM architecture, Move). I’ve built user-facing applications, backend services, and smart contract systems that bridge on-chain logic with real-world platforms.
+My background spans frontend engineering (React, TailwindCss, Next.js, TypeScript), backend systems (Node.js, Express.js, APIs, MongoDB), and blockchain development (Solidity, web3.js, Ethers.js EVM architecture, Move). I’ve built user-facing applications, backend services, and smart contract systems that bridge on-chain logic with real-world platforms.
 In recent years, I’ve specialized in smart contract security and DeFi protocol architecture. I actively audit complex systems, analyze value-flow invariants, vault accounting mechanisms, and protocol-level risk across competitive audit platforms and independent research.
 
 What differentiates me is dual perspective:
@@ -12,11 +12,11 @@ What differentiates me is dual perspective:
 This allows me to design more secure contracts, more reliable backend systems, and more resilient full-stack applications.
 
 I’m open to roles in:
-• Blockchain Development
-• Smart Contract Engineering
-• Backend Engineering
-• Frontend/Web3 Engineering
-• Security Engineering
+- Blockchain Development
+- Smart Contract Engineering
+- Backend Engineering
+- Frontend/Web3 Engineering
+- Security Engineering
 
 Let’s build secure systems.
 
@@ -54,17 +54,13 @@ I approach audits by:
 - Simulating malicious state reachability
 - Writing PoC when impact is non-trivial
 -->
-### 
 
-### 🧪 Tools & Stack
-- Move
-- Solidity
-- Fuzzing
-- Foundry (advanced testing + fuzzing)
-- EVM bytecode analysis
+
+### 🧪 Security Tools 
 - Gas optimization review
-- Invariant & state reachability testing
 - Manual exploit simulation
+- Foundry (advanced testing + fuzzing)
+- Invariant & state reachability testing
 
 ### 📚 Writing & Research
 - [𝗥𝗘𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 𝗨𝗡𝗜𝗦𝗪𝗔𝗣 𝗩3 𝗙𝗥𝗢𝗠 𝗦𝗖𝗥𝗔𝗧𝗖𝗛](https://www.linkedin.com/posts/olowookere-marvellous_github-marvy-codes1uniswapv3clone-ground-up-share-7430102607794311168-OYGm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7B9CcBnJYxx8OmFgfeKjKjcCZmVYqOVJg)
@@ -75,15 +71,14 @@ I approach audits by:
 - [CallData Rabbit Hole and what I discovered](https://x.com/_marvyCodes/status/2008061393044685173?s=20)
 
 ### 🎓 Education
-- Bachelor in Software Engineering @ Federal University of Technology.
-- sport: Table Tennis.
-- Multiple Updraft courses completed
+- Bachelor in Software Engineering
 
 ### 🤝 Let’s Connect
 If you're building DeFi infrastructures 
 Anything involving complex value accounting
-
 I’m interested...
+
+### Socials 🔭
 - 🐦 Twitter: https://x.com/_marvyCodes
 - 💬 Telegram: https://t.me/marvycodes
 - 💼 LinkedIn: https://www.linkedin.com/in/olowookere-marvellous/
