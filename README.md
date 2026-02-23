@@ -49,7 +49,7 @@ Worked as a front-end engineer building production-grade UI systems across Web2 
 - Improved system performance and stability across web applications  
 - Led development decisions and technical direction  
 
-### 📊 Audit Journey
+### 📊 Audit Experience
 25+ competitive audit contests participation and over 10+ Medium and High public findings across protocols also Multiple High-severity logic issues identified. Deep architectural reviews of 7k+ nSloc systems and 2 Move private audit engagements
 
 ### 🪨 Public Findings
