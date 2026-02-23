@@ -17,6 +17,38 @@ I bring both:
 
 If you’re building blockchain products, DeFi infrastructure, or Web3 applications and need engineering depth with security awareness, let’s connect.
 
+## 💼 Professional Experience
+
+### 🖥️ Front-End Developer — DotCircle Labs  
+**Feb 2021 – Oct 2022 (Remote)**  
+
+Worked as a front-end engineer building production-grade UI systems across Web2 and Web3 applications.
+
+- Built complex UI/UX interfaces for blockchain and traditional platforms  
+- Integrated Web3 functionality using React.js, web3.js, and modern frontend tooling  
+- Translated product designs into scalable, reusable components  
+- Collaborated with backend and smart contract engineers to deliver end-to-end features  
+
+---
+
+### 🌐 Full-Stack Developer — Master Neo Moderation Agency  
+**Nov 2021 – Feb 2022**  
+
+- Led frontend architecture and implementation  
+- Built and launched the company’s production web platform  
+- Implemented backend logic and handled deployment processes  
+- Delivered a fully functional system from concept to production  
+
+---
+
+### 👨🏾‍💻 Lead Developer — ILearnBlock  
+**Mar 2020 – Dec 2021**  
+
+- Managed and maintained the core codebase  
+- Designed and shipped new UI components and major product features  
+- Improved system performance and stability across web applications  
+- Led development decisions and technical direction  
+
 ### 📊 Audit Journey
 25+ competitive audit contests participation and over 10+ Medium and High public findings across protocols also Multiple High-severity logic issues identified. Deep architectural reviews of 7k+ nSloc systems and 2 Move private audit engagements
 
